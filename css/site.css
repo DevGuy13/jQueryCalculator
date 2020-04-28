@@ -1,0 +1,19 @@
+.dg-calc-wrapper {
+	border:1px solid #adadad;
+	border-radius:4px;
+	margin-top:10px;
+	max-width:300px;
+	padding:10px;
+}
+.dg-calc-wrapper .dg-calc-row-margin {
+	margin-bottom:5px;
+}
+.dg-calc-wrapper .dg-calc-row-margin:last-child {
+	margin-bottom:0;
+}
+.dg-calc-btn {
+	width:100%;
+}
+.dg-calc-btn:focus {
+	outline:none !important;
+}
